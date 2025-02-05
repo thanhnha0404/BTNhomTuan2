@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Login_Register"
-include(":app")
- 
+rootProject.name = "Login"
+include ':app'
